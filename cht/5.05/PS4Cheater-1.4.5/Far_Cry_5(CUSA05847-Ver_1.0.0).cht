@@ -1,0 +1,15 @@
+1.4|eboot.bin|ID:CUSA05847|VER:01.00|FM:505
+simple pointer|pointer|4 bytes|@6A9E958_3_302958+70+38+10+18+58+18+78+30|data|4 bytes|10000001|0|P1 SkillPoints|
+simple pointer|pointer|4 bytes|@67DA3F8_3_3E3F8+40+0+318+20+0+58+4C|data|4 bytes|0|0|P1 Money|
+simple pointer|pointer|4 bytes|@69C25C0_3_2265C0+1D8+60+8+30+F20+BB8+98+188|data|4 bytes|40|0|inf Ammo Test 1 (ONLY NEED ONE)|
+simple pointer|pointer|4 bytes|@67E4D88_3_48D88+78+60+8+30+F20+BB8+98+188|data|4 bytes|40|0|INF AMMO T2|
+simple pointer|pointer|4 bytes|@67E4DC8_3_48DC8+78+60+8+30+F20+BB8+98+188|data|4 bytes|40|0|INF AMMO T3|
+simple pointer|pointer|4 bytes|@6A8E6B0_3_2F26B0+70+68+B0+60+8+30+F20+BB8+98+188|data|4 bytes|40|0|INF AMMO T4|
+simple pointer|pointer|4 bytes|@6A8E6B0_3_2F26B0+68+68+B0+60+8+30+F20+BB8+98+188|data|4 bytes|40|0|INF AMMO T5|
+data|952|6DC8|float|9999|0|Infinite Health TEST POINTER  (ONLY NEED 1 HEALTH ADDRES)|20FE06DC8
+simple pointer|pointer|float|@6AB9758_3_31D758+90+8+8A8+0+48+20+18+0+18|data|float|300|0|Infinite Health TEST POINTER 2|
+simple pointer|pointer|float|@79ECEB0_3_1250EB0+58+BB0+10+90+D0+248+8+18+0+18|data|float|300|0|Infinite Health TEST POINTER 3|
+simple pointer|pointer|float|@79ECEB0_3_1250EB0+58+BC0+50+90+D0+298+8+18+0+18|data|float|300|0|Infinite Health TEST POINTER 4|
+simple pointer|pointer|float|@67E7F98_3_4BF98+30+20+180+30+818+28+8+88+48+18|data|float|300|0|Infinite Health TEST POINTER 5|
+simple pointer|pointer|float|@6A9BE80_3_2FFE80+90+18+10+888+0+0+38+20+48+18|data|float|300|0|Infinite Health TEST POINTER 6|
+simple pointer|pointer|float|@6A9BE80_3_2FFE80+90+18+8A8+0+0+38+20+48+18|data|float|300|0|Infinite Health TEST POINTER 7|
